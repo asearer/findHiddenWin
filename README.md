@@ -1,2 +1,2 @@
 # findHiddenWin
-Python script to find hidden files on Windows systems.
+Python script to find and list hidden files on Windows systems.
